@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+#
+# echo "AAAAAAAAAAAAA" | main.py
+# cat example.txt | main.py --allow-symbols
 
 import sys
 import random
